@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
             frm.DocName = "Документ " + ++openDoc;
             frm.Text = frm.DocName;
             frm.MdiParent = this;
-            frm.Show();
+         ылврмлырмлоия
         }
     }
 }
